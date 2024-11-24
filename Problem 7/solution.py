@@ -18,6 +18,3 @@ while n > 0 :
     i += 1 
 
 print(curr)
-
-
-
