@@ -20,5 +20,5 @@ while t > 1 :
     if isPrime(t) : 
         rs += t 
     t -= 2
-# Print The final Result
+    
 print(rs)
