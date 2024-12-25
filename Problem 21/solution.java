@@ -1,5 +1,4 @@
 public class solution {
-
     public static void main( String[] args ){
         int n = 10_000 ; 
         int sum = 0 ; 
