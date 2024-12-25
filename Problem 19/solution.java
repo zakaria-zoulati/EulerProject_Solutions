@@ -1,7 +1,5 @@
 public class solution {
      public static void main( String[] args ){
-        // Calculate The number of mondays between  (1 Jan 1901 to 31 Dec 2000) 
-        // 1 Jan 1901 was a Monday 
         int rs = 0 ; 
         int curr = 365 ; 
         for( int i= 1901 ; i<=2000 ; ++i ){
