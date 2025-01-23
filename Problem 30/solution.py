@@ -1,6 +1,4 @@
-rs = 0 
 limit = 295245
-
 arr = [ i**5 for i in range(0,10) ]
 
 def isValid(n) :
@@ -11,6 +9,7 @@ def isValid(n) :
         n /= 10
     return num == inter 
 
+rs = 0 
 for i in range( 2 , limit ):
     if isValid(i):
         rs += i 
