@@ -7,7 +7,7 @@ def isValid(n) :
     while( n > 0 ) : 
         inter += arr[ int(n%10) ]
         n /= 10
-    return num == inter   
+    return num == inter     
 
 rs = 0   
 for i in range( 2 , limit ):
