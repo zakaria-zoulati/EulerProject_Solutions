@@ -1,6 +1,5 @@
 rs = 0 
-limit = 1000000
-
+limit = 295245
 
 arr = [ i**5 for i in range(0,10) ]
 
