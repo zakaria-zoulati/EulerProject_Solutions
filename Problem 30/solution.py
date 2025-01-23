@@ -9,7 +9,7 @@ def isValid(n) :
         n /= 10
     return num == inter      
 
-rs = 0   
+rs = 0    
 for i in range( 2 , limit ):
     if isValid(i):
         rs += i 
